@@ -4,8 +4,8 @@
       class="cl-info-slider cl-footer-features-row swiper-container-initialized swiper-container-horizontal"
     >
       <div
-        class="swiper-wrapper cl-footer-features-row-items"
         id="swiper-wrapper-a57dcaec108da9325"
+        class="swiper-wrapper cl-footer-features-row-items"
         aria-live="off"
       >
         <div
@@ -173,8 +173,8 @@
               Yardım<span class="cl-footer-plus-navigator">+</span>
             </div>
             <ul
-              class="cl-footer-link-ullist collapse show"
               id="collapseHelp"
+              class="cl-footer-link-ullist collapse show"
               aria-labelledby="headingOne"
             >
               <li>
@@ -245,8 +245,8 @@
               Kurumsal<span class="cl-footer-plus-navigator">+</span>
             </div>
             <ul
-              class="cl-footer-link-ullist collapse"
               id="collapseCorporate"
+              class="cl-footer-link-ullist collapse"
               aria-labelledby="headingOne"
             >
               <li>
@@ -283,8 +283,8 @@
               Özel Sayfalar<span class="cl-footer-plus-navigator">+</span>
             </div>
             <ul
-              class="cl-footer-link-ullist collapse"
               id="collapseSpecialPages"
+              class="cl-footer-link-ullist collapse"
             >
               <li>
                 <a
@@ -406,8 +406,8 @@ ul {
 }
 
 .cl-footer-features-row {
-    background-color: #022c57;
-    padding: 40px 100px;
+  background-color: #022c57;
+  padding: 40px 100px;
 }
 
 .cl-footer-container {
@@ -522,14 +522,14 @@ ul {
 }
 
 .cl-footer-features-row-item {
-  font-family:  Mulish, sans-serif;
+  font-family: Mulish, sans-serif;
   display: flex;
   color: #fff;
   font-size: 14px;
   align-items: center;
 }
 
-.swiper-slide img{
+.swiper-slide img {
   margin-right: 35px;
   display: flex;
 }
