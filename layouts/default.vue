@@ -2,6 +2,9 @@
   <div>
     <header-search />
     <QRandSlider />
+    <DoubleBanner/>
+    <GenderBanner/>
+    <PopulerKategoriler/>
     <MyFooter />
   </div>
 </template>
