@@ -56,7 +56,7 @@
 
          #double-banner.cl-two-col-banner .cl-banner-item .cl-banner-title {
             font-size: 18px;
-            color: var(--blue);
+            color: #022c57;
             font-weight: 900;
             margin: 8px 0;
             line-height: 24px;
