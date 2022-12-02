@@ -3,6 +3,7 @@
     <header-search />
     <QRandSlider />
     <DoubleBanner/>
+    <DiscoverBanner/>
     <GenderBanner/>
     <PopulerKategoriler/>
     <MyFooter />
