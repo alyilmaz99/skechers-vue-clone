@@ -2,10 +2,10 @@
   <div>
     <header-search />
     <QRandSlider />
-    <DoubleBanner/>
-    <DiscoverBanner/>
-    <GenderBanner/>
-    <PopulerKategoriler/>
+    <DoubleBanner />
+    <DiscoverBanner />
+    <GenderBanner />
+    <PopulerKategoriler />
     <MyFooter />
   </div>
 </template>

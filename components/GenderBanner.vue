@@ -79,7 +79,7 @@ export default { name: 'GenderBanner' }
   margin-left: 30px;
   margin-right: 30px;
   flex-wrap: wrap;
-  font-family: Mulish,sans-serif;
+  font-family: Mulish, sans-serif;
 }
 
 .gender-banner-item {

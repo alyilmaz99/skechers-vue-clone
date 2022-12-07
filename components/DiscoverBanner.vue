@@ -49,9 +49,8 @@
 <script></script>
 
 <style>
-
-.banner{
-    font-family: Mulish, sans-serif;
+.banner {
+  font-family: Mulish, sans-serif;
 }
 
 #band-banner.cl-ad-banner {
